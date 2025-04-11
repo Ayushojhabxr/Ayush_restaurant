@@ -6,7 +6,7 @@ import { Instagram, Facebook } from 'lucide-react';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'Restaurant Name - Authentic Dining Experience',
+  title: 'Ayush Restaurant - Authentic Dining Experience',
   description: 'Experience the perfect blend of traditional recipes and modern dining atmosphere.',
 };
 
